@@ -17,7 +17,7 @@ elif selection == "2": #Creation
     password = input("Enter new password:")
     f = open("usernames.txt", "r") 
     Flag = 0 
-    for i in f.read().split('\n'): #iterated through the usernames.txt file, checks if the username is taken
+    for i in f.read().split('\n'): #iterates through the usernames.txt file, checks if the username is taken
         if username == i:
             Flag = 1
     if Flag == 1:
