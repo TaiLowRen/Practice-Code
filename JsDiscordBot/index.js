@@ -1,6 +1,6 @@
 const commando = require('discord.js-commando');  // importing the discord bot package
 const bot = new commando.CommandoClient(); // creating the bot
-bot.login("NzIzNjQyMTA5NDI0MzA0MTQ5.Xu03Xg.QF3ZbABUO9qrjxGYFio-fn98Qek") // getting the bot to login
+bot.login("") // getting the bot to login
 
 
 bot.registry.registerGroup('random', 'Random'); // creating a group for randomized commands
