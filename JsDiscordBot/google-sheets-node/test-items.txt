@@ -1,0 +1,1530 @@
+Name: Disk Stone
+Rarity: 4
+Capacity: x20
+Value: 68z
+Description: A disk-shaped stone.
+------------------------------------------------------------------------
+Name: Iron Ore
+Rarity: 4
+Capacity: x99
+Value: 60z
+Description: Iron Ore can be smelted into metal and used for many different purposes.
+------------------------------------------------------------------------
+Name: Earth Crystal
+Rarity: 4
+Capacity: x99
+Value: 120z
+Description: The crystallized remains of mirco biotic organisms. Prized as a weapon abrasive.
+------------------------------------------------------------------------
+Name: Machalite Ore
+Rarity: 5
+Capacity: x99
+Value: 160z
+Description: Better than Iron Ore. Used to make Machalite. Also called Sparrowstone.
+------------------------------------------------------------------------
+Name: Dragonite Ore
+Rarity: 5
+Capacity: x99
+Value: 480z
+Description: Better than Machalite. Extremely valuable. Also called Dragonstone.
+------------------------------------------------------------------------
+Name: Union Ore
+Rarity: 5
+Capacity: x99
+Value: 320z
+Description: Ore containing a metal that can fuse any other material together.
+------------------------------------------------------------------------
+Name: Firestone
+Rarity: 5
+Capacity: x99
+Value: 860z
+Description: Combusts at room temp. Can only be mixed with suitable materials.
+------------------------------------------------------------------------
+Name: Lightcrystal
+Rarity: 5
+Capacity: x99
+Value: 1150z
+Description: Crystal with a dull glow. Extremely hard, it is used for tools in the armory.
+------------------------------------------------------------------------
+Name: Novacrystal
+Rarity: 5
+Capacity: x99
+Value: 2440z
+Description: Brightly glowing crystal. Extremely hard, it is used for tools in the armory.
+------------------------------------------------------------------------
+Name: Antiseptic Stone
+Rarity: 3
+Capacity: x10
+Value: 183z
+Description: Earth Crystal with enhanced antiseptic qualities. Does not exist naturally.
+------------------------------------------------------------------------
+Name: Coal
+Rarity: 3
+Capacity: x10
+Value: 120z
+Description: A rock-like material that can be burned for warmth.
+------------------------------------------------------------------------
+Name: Raw Meat
+Rarity: 1
+Capacity: x10
+Value: 5z
+Description: Meat obtained through carving up a monster. Has many uses.
+------------------------------------------------------------------------
+Name: Rare Steak
+Rarity: 1
+Capacity: x10
+Value: 3z
+Description: Meat cooked on the rare side. Gives a small boost to Stamina.
+------------------------------------------------------------------------
+Name: Well-Done Steak
+Rarity: 2
+Capacity: x10
+Value: 48z
+Description: Well-cooked meat. Gives a medium boost to Stamina.
+------------------------------------------------------------------------
+Name: Burnt Meat
+Rarity: 1
+Capacity: x10
+Value: 1z
+Description: Meat burnt to a crisp. Boosts Stamina sometimes, but can also weaken you.
+------------------------------------------------------------------------
+Name: Drugged Meat
+Rarity: 1
+Capacity: x10
+Value: 32z
+Description: Causes sleepiness if consumed. Used as bait in traps.
+------------------------------------------------------------------------
+Name: Poisoned Meat
+Rarity: 1
+Capacity: x10
+Value: 19z
+Description: Poisons if consumed. Used as bait in traps.
+------------------------------------------------------------------------
+Name: Tainted Meat
+Rarity: 2
+Capacity: x10
+Value: 30z
+Description: Paralyzes if consumed. Used as bait in traps.
+------------------------------------------------------------------------
+Name: Knife Mackerel
+Rarity: 1
+Capacity: x10
+Value: 60z
+Description: A fish with a dorsal fin hard enough to be used to sharpen weapons.
+------------------------------------------------------------------------
+Name: Sushifish
+Rarity: 1
+Capacity: x10
+Value: 45z
+Description: A delicious fish that restores a small amount of Health when consumed.
+------------------------------------------------------------------------
+Name: Sleepyfish
+Rarity: 2
+Capacity: x10
+Value: 45z
+Description: A fish with sleep-inducing properties.
+------------------------------------------------------------------------
+Name: Pin Tuna
+Rarity: 1
+Capacity: x30
+Value: 50z
+Description: A fish with a jaw covered in tiny needle-like spikes.
+------------------------------------------------------------------------
+Name: Rumblefish
+Rarity: 2
+Capacity: x30
+Value: 30z
+Description: A fish that cracks open when killed.
+------------------------------------------------------------------------
+Name: Scatterfish
+Rarity: 4
+Capacity: x10
+Value: 240z
+Description: A fish that shatters to pieces when killed.
+------------------------------------------------------------------------
+Name: Burst Arrowana
+Rarity: 4
+Capacity: x10
+Value: 88z
+Description: A fish that ruptures open when killed.
+------------------------------------------------------------------------
+Name: Bomb Arrowana
+Rarity: 4
+Capacity: x10
+Value: 264z
+Description: A fish that explodes when killed.
+------------------------------------------------------------------------
+Name: Goldenfish
+Rarity: 5
+Capacity: x10
+Value: 760z
+Description: A rare fish with a gold-colored body. Very valuable.
+------------------------------------------------------------------------
+Name: Insect Husk
+Rarity: 1
+Capacity: x10
+Value: 1z
+Description: The remains of a dead insect.
+------------------------------------------------------------------------
+Name: Yambug
+Rarity: 1
+Capacity: x99
+Value: 3z
+Description: A yam-like bug that exudes a scent that drives tuna wild. Can't be used as-is.
+------------------------------------------------------------------------
+Name: Bughopper
+Rarity: 1
+Capacity: x99
+Value: 6z
+Description: An insect that exudes a scent that drives arrowana wild. Can't be used as-is.
+------------------------------------------------------------------------
+Name: Snakebee Larva
+Rarity: 1
+Capacity: x99
+Value: 30z
+Description: A snake-like larva with a scent that Goldenfish just love. Can't be used as-is.
+------------------------------------------------------------------------
+Name: Godbug
+Rarity: 3
+Capacity: x10
+Value: 210z
+Description: An insect said to live for a thousand years.
+------------------------------------------------------------------------
+Name: Bitterbug
+Rarity: 1
+Capacity: x10
+Value: 2z
+Description: Contains a bitter essence. Has a 50% chance of curing poison if consumed.
+------------------------------------------------------------------------
+Name: Flashbug
+Rarity: 2
+Capacity: x10
+Value: 48z
+Description: An insect that emits a powerful flash when it dies.
+------------------------------------------------------------------------
+Name: Thunderbug
+Rarity: 4
+Capacity: x99
+Value: 350z
+Description: An insect that emits electricity when struck. Has many applications.
+------------------------------------------------------------------------
+Name: Screamer
+Rarity: 4
+Capacity: x99
+Value: 15z
+Description: A monster's internal organ. If broken, it emits a shrill sound.
+------------------------------------------------------------------------
+Name: Poison Sac
+Rarity: 4
+Capacity: x99
+Value: 96z
+Description: A monster's internal organ. Contains a lethal poison.
+------------------------------------------------------------------------
+Name: Stun Sac
+Rarity: 4
+Capacity: x99
+Value: 120z
+Description: A monster's internal organ filled with a paralyzing neurotoxin.
+------------------------------------------------------------------------
+Name: Sleep Sac
+Rarity: 4
+Capacity: x99
+Value: 340z
+Description: A monster's internal organ filled with a powder that causes sleep when inhaled.
+------------------------------------------------------------------------
+Name: Flame Sac
+Rarity: 4
+Capacity: x99
+Value: 240z
+Description: A monster's internal organ. Contains a very flammable powder.
+------------------------------------------------------------------------
+Name: Electro Sac
+Rarity: 4
+Capacity: x99
+Value: 480z
+Description: The internal organ of a Khezu. Releases electricity if disturbed.
+------------------------------------------------------------------------
+Name: Power Extract
+Rarity: 3
+Capacity: x99
+Value: 56z
+Description: Gypceros extract. The secret to its ability to run fast and far.
+------------------------------------------------------------------------
+Name: Pale Extract
+Rarity: 3
+Capacity: x20
+Value: 122z
+Description: Khezu extract. Has the ability to amplify the effect of medicines.
+------------------------------------------------------------------------
+Name: Monster Fluid
+Rarity: 4
+Capacity: x99
+Value: 500z
+Description: Can be mixed with insect stomach juices to make an adhesive.
+------------------------------------------------------------------------
+Name: Sm Monster Bone
+Rarity: 3
+Capacity: x99
+Value: 10z
+Description: A very useful material, indispensable for both hunting and daily life.
+------------------------------------------------------------------------
+Name: Med Monster Bone
+Rarity: 4
+Capacity: x99
+Value: 210z
+Description: These have more uses than smaller bones. Usually carved to make an item.
+------------------------------------------------------------------------
+Name: Lg Monster Bone
+Rarity: 5
+Capacity: x99
+Value: 440z
+Description: Indispensable for crafting one-piece items. Bone can be connected to shell.
+------------------------------------------------------------------------
+Name: Mystery Bone
+Rarity: 1
+Capacity: x99
+Value: 1z
+Description: A well-worn bone. Not sturdy enough to use in combination.
+------------------------------------------------------------------------
+Name: Unknown Skull
+Rarity: 4
+Capacity: x99
+Value: 120z
+Description: Animal skull. So worn and weathered, it's unidentifiable.
+------------------------------------------------------------------------
+Name: Master's Skull
+Rarity: 5
+Capacity: x99
+Value: 1250z
+Description: The remains of a top hunter who once let his guard down.
+------------------------------------------------------------------------
+Name: Bone
+Rarity: 1
+Capacity: x99
+Value: 15z
+Description: Just a bone. So worn and weathered, it's unidentifiable.
+------------------------------------------------------------------------
+Name: Wyvern Fang
+Rarity: 3
+Capacity: x99
+Value: 6z
+Description: Used to make Bowgun ammunition. With explosive, makes spreading shots.
+------------------------------------------------------------------------
+Name: Wyvern Claw
+Rarity: 3
+Capacity: x99
+Value: 18z
+Description: Used to make Bowgun ammunition. With explosive, makes explosive shots.
+------------------------------------------------------------------------
+Name: Sm Bone Husk
+Rarity: 2
+Capacity: x99
+Value: 3z
+Description: Bone ammunition casing. Stronger than a Huskberry ammunition casing.
+------------------------------------------------------------------------
+Name: Lg Bone Husk
+Rarity: 3
+Capacity: x99
+Value: 5z
+Description: Bone ammunition casing that can withstand powerful explosions.
+------------------------------------------------------------------------
+Name: Mosswine Hide
+Rarity: 4
+Capacity: 0
+Value: 36z
+Description: Mosswine Hide. It's covered in moss.
+------------------------------------------------------------------------
+Name: Mosswine Head
+Rarity: 4
+Capacity: 0
+Value: 12z
+Description: The head of a Mosswine. Only a true collector would bring one back.
+------------------------------------------------------------------------
+Name: Bullfango Pelt
+Rarity: 1
+Capacity: 0
+Value: 40z
+Description: Bullfango hide. It's covered in bristly fur.
+------------------------------------------------------------------------
+Name: Bullfango Head
+Rarity: 4
+Capacity: 0
+Value: 98z
+Description: A Bullfango head with a pair of huge fangs.
+------------------------------------------------------------------------
+Name: Kelbi Horn
+Rarity: 4
+Capacity: 0
+Value: 52z
+Description: Infusions of powdered Kelbi Horn are used as medicine here.
+------------------------------------------------------------------------
+Name: Kelbi Hide
+Rarity: 1
+Capacity: 0
+Value: 24z
+Description: Used to join the plated in a suit of armor and to make winter clothing.
+------------------------------------------------------------------------
+Name: Velociprey Fang
+Rarity: 2
+Capacity: 0
+Value: 15z
+Description: Sharp (though not as sharp as a wyvern fang). Used to make Bowgun ammo.
+------------------------------------------------------------------------
+Name: Velociprey Scale
+Rarity: 3
+Capacity: 0
+Value: 40z
+Description: Scale obtained by carving up a Velociprey. Blue and black in color.
+------------------------------------------------------------------------
+Name: Velociprey Hide
+Rarity: 3
+Capacity: 0
+Value: 28z
+Description: Hide obtained by carving up a Velociprey. Valued as a fusing item in armorcraft.
+------------------------------------------------------------------------
+Name: Velocidrome Claw
+Rarity: 5
+Capacity: 0
+Value: 240z
+Description: Claw from an alpha Velociprey. Sharp and blade-like.
+------------------------------------------------------------------------
+Name: Velocidrome Head
+Rarity: 5
+Capacity: 0
+Value: 560z
+Description: Large head with a crest. You'd look pretty fierce if you wore it on your head.
+------------------------------------------------------------------------
+Name: Genprey Fang
+Rarity: 2
+Capacity: 0
+Value: 40z
+Description: Poisonous fang from a Genprey. The neurotoxin even works on wyverns.
+------------------------------------------------------------------------
+Name: Genprey Scale
+Rarity: 3
+Capacity: 0
+Value: 40z
+Description: Scale from a Genprey. Acts as camouflage in the jungle zones.
+------------------------------------------------------------------------
+Name: Genprey Hide
+Rarity: 3
+Capacity: 0
+Value: 28z
+Description: A hide with all the scales removed. Can be tanned at the fort. Quite colorful.
+------------------------------------------------------------------------
+Name: Gendrome Hide
+Rarity: 4
+Capacity: 0
+Value: 560z
+Description: Sturdy green hide from a Gendrome. Perfect for making strong armor.
+------------------------------------------------------------------------
+Name: Ioprey Fang
+Rarity: 2
+Capacity: 0
+Value: 25z
+Description: Fang filled with deadly poison. Care is required when handling it.
+------------------------------------------------------------------------
+Name: Ioprey Scale
+Rarity: 3
+Capacity: 0
+Value: 40z
+Description: The dangerous poison normally in the scale has been removed.
+------------------------------------------------------------------------
+Name: Ioprey Hide
+Rarity: 3
+Capacity: 0
+Value: 28z
+Description: Can be tanned at the fort. The red portions are used as decorations.
+------------------------------------------------------------------------
+Name: Iodrome Hide
+Rarity: 4
+Capacity: 0
+Value: 560z
+Description: Sturdy red hide from an Iodrome. Perfect for making strong armor.
+------------------------------------------------------------------------
+Name: Kut-Ku Scale
+Rarity: 4
+Capacity: 0
+Value: 250z
+Description: Pink colored scale from a Kut-Ku. Fire-resistant. Can be found in the field.
+------------------------------------------------------------------------
+Name: Kut-Ku Shell
+Rarity: 4
+Capacity: 0
+Value: 345z
+Description: The Fire resistant shell of a Kut-Ku. Quite resistant to Fire.
+------------------------------------------------------------------------
+Name: Kut-Ku Ear
+Rarity: 5
+Capacity: 0
+Value: 1780z
+Description: The Fire resistant ear of a Kut-Ku. Used to prevent Bowgun flash-back.
+------------------------------------------------------------------------
+Name: Giant Beak
+Rarity: 5
+Capacity: 0
+Value: 2380z
+Description: The huge, sturdy beack of a Yian Kut-Ku.
+------------------------------------------------------------------------
+Name: Kut-Ku Webbing
+Rarity: 4
+Capacity: 0
+Value: 650z
+Description: Webbing from a Kut-Ku wing. Better than animal skins as a fusing material.
+------------------------------------------------------------------------
+Name: Rubbery Hide
+Rarity: 4
+Capacity: 0
+Value: 370z
+Description: Highly elastic Gypceros hide. A good insulator, resistant to electricity.
+------------------------------------------------------------------------
+Name: Piscine Fang
+Rarity: 4
+Capacity: 0
+Value: 250z
+Description: Fang from a Plesioth or Cephalos. Used to hold and kill prey.
+------------------------------------------------------------------------
+Name: Piscine Jaw
+Rarity: 4
+Capacity: 0
+Value: 460z
+Description: The jaw of a Piscine Wyvern. Used for making powerful Great Swords.
+------------------------------------------------------------------------
+Name: Piscine Liver
+Rarity: 3
+Capacity: 0
+Value: 300z
+Description: Internal organ from a Piscine Wyvern. A guild favorite as a cure-all.
+------------------------------------------------------------------------
+Name: Plesioth Scale
+Rarity: 4
+Capacity: 0
+Value: 445z
+Description: An incandescent scale from a Plesioth. Becomes brittle if it dries out.
+------------------------------------------------------------------------
+Name: Plesioth Fin
+Rarity: 5
+Capacity: 0
+Value: 820z
+Description: A beautiful fin from a Plesioth. The spikes are deadly poisonous.
+------------------------------------------------------------------------
+Name: Cephalos Scale
+Rarity: 4
+Capacity: 0
+Value: 480z
+Description: A sand wyvern scale. Its color is a brilliant blue. Good at retaining moisture.
+------------------------------------------------------------------------
+Name: Cephalos Fin
+Rarity: 5
+Capacity: 0
+Value: 550z
+Description: A sand wyvern fin. It isn't poisonous, but it's very sharp.
+------------------------------------------------------------------------
+Name: Rathian Claw
+Rarity: 4
+Capacity: 0
+Value: 600z
+Description: Rathian wing claws. Occasionally come off during a fight.
+------------------------------------------------------------------------
+Name: Rathian Scale
+Rarity: 4
+Capacity: 0
+Value: 490z
+Description: A scale from a Rathian, the female version of the Rathalos.
+------------------------------------------------------------------------
+Name: Rathian Plate
+Rarity: 5
+Capacity: 0
+Value: 4850z
+Description: A fiery scale from the tail of a Rathian.
+------------------------------------------------------------------------
+Name: Rathian Shell
+Rarity: 4
+Capacity: 0
+Value: 650z
+Description: Shell from a Rathian, comprised of numerous scales. Very hard.
+------------------------------------------------------------------------
+Name: Rathian Spike
+Rarity: 5
+Capacity: 0
+Value: 300z
+Description: Spike-like hairs from the back and wings of a Rathian. Poisonous.
+------------------------------------------------------------------------
+Name: Rathalos Claw
+Rarity: 4
+Capacity: 0
+Value: 600z
+Description: A Rathalos wing claw. Occasionally come off during a fight.
+------------------------------------------------------------------------
+Name: Rathalos Scale
+Rarity: 4
+Capacity: 0
+Value: 490z
+Description: A scale from a Rathalos. These are a highly prized crafting material.
+------------------------------------------------------------------------
+Name: Rathalos Plate
+Rarity: 5
+Capacity: 0
+Value: 4850z
+Description: A fiery scale from the tail of a Rathalos.
+------------------------------------------------------------------------
+Name: Rathalos Shell
+Rarity: 4
+Capacity: 0
+Value: 650z
+Description: Shell from a Rathalos, comprised of numerous scales. Very hard.
+------------------------------------------------------------------------
+Name: Wyvern Marrow
+Rarity: 5
+Capacity: 0
+Value: 2100z
+Description: A material obtained via new carving techniques. Highly combustible.
+------------------------------------------------------------------------
+Name: Rathalos Tail
+Rarity: 5
+Capacity: 0
+Value: 1200z
+Description: The tail of a Rathalos. A multi-purpose item.
+------------------------------------------------------------------------
+Name: Rathalos Wing
+Rarity: 5
+Capacity: 0
+Value: 2550z
+Description: A valuable item. Used by smiths at the armory to make Great Swords.
+------------------------------------------------------------------------
+Name: Rathalos Webbing
+Rarity: 4
+Capacity: 0
+Value: 880z
+Description: This heat-resistant material is often used as armor lining.
+------------------------------------------------------------------------
+Name: Flabby Hide
+Rarity: 4
+Capacity: 0
+Value: 760z
+Description: Only workable as a material after recent advances. Has mysterious properties.
+------------------------------------------------------------------------
+Name: Pale Bone
+Rarity: 5
+Capacity: 0
+Value: 2380z
+Description: Rib bone from a Khezu with meat still attached.
+------------------------------------------------------------------------
+Name: Pale Lips
+Rarity: 5
+Capacity: 0
+Value: 3550z
+Description: The lips of a Khezu. Able to generate powerful suction.
+------------------------------------------------------------------------
+Name: Basarios Shell
+Rarity: 4
+Capacity: 0
+Value: 440z
+Description: Shell from a Basarios. Rock-like consistency. Can be forged into metal.
+------------------------------------------------------------------------
+Name: Basarios Wing
+Rarity: 5
+Capacity: 0
+Value: 1420z
+Description: The wing of a Basarios. Very hard to work as a material.
+------------------------------------------------------------------------
+Name: Gravios Shell
+Rarity: 4
+Capacity: 0
+Value: 970z
+Description: The stone-like shell of a Gravios. May contain traces of ore.
+------------------------------------------------------------------------
+Name: Gravios Carapace
+Rarity: 5
+Capacity: 0
+Value: 1880z
+Description: Harder than Gravios Shell, this material is known as Gravite around here.
+------------------------------------------------------------------------
+Name: Gravios Wing
+Rarity: 5
+Capacity: 0
+Value: 1980z
+Description: The wing of a Gravios. Very hard to work as a material.
+------------------------------------------------------------------------
+Name: ulo ni Gravios
+Rarity: 5
+Capacity: 0
+Value: 2550z
+Description: The mask-like faceplate of a Gravios. Very hard to work as a material.
+------------------------------------------------------------------------
+Name: Twisted Horn
+Rarity: 4
+Capacity: 0
+Value: 780z
+Description: The large, gnarled horn of a Diablos. Has a variety of uses.
+------------------------------------------------------------------------
+Name: Majestic Horn
+Rarity: 5
+Capacity: 0
+Value: 2400z
+Description: High-quality horn from a Diablos. Used to make strong weapons.
+------------------------------------------------------------------------
+Name: Diablos Shell
+Rarity: 4
+Capacity: 0
+Value: 650z
+Description: Part of the shell that covers a Diablos. Very dense and heavy.
+------------------------------------------------------------------------
+Name: Diablos Spine
+Rarity: 5
+Capacity: 0
+Value: 1340z
+Description: One of the hard spines from a Diablos' back. A weaponcraft material.
+------------------------------------------------------------------------
+Name: Diablos Tail
+Rarity: 5
+Capacity: 0
+Value: 1280z
+Description: A Diablos tail. Stronger and more durable than an iron hammer.
+------------------------------------------------------------------------
+Name: Blos Jaw
+Rarity: 4
+Capacity: 0
+Value: 880z
+Description: Jawbone from a Diablos or Monoblos. Used for making powerful Great Swords.
+------------------------------------------------------------------------
+Name: Blos Fang
+Rarity: 4
+Capacity: 0
+Value: 220z
+Description: A large, sturdy fang from a Diablos or Monoblos. Stays sharp.
+------------------------------------------------------------------------
+Name: Vespoid Abdomen
+Rarity: 5
+Capacity: 0
+Value: 4444z
+Description: The abdomen of a Vespoid queen. In rare cases these are filled with eggs.
+------------------------------------------------------------------------
+Name: Vespoid Shell
+Rarity: 4
+Capacity: 0
+Value: 120z
+Description: With special materials, this can be worked into very strong armor.
+------------------------------------------------------------------------
+Name: Vespoid Wing
+Rarity: 4
+Capacity: 0
+Value: 73z
+Description: A hard-to-work material. Front and reverse sides have different textures.
+------------------------------------------------------------------------
+Name: Vespoid Bladefin
+Rarity: 4
+Capacity: 0
+Value: 256z
+Description: The knife-like wing of a Vespoid. The key to its predatory ability.
+------------------------------------------------------------------------
+Name: Hornetaur Shell
+Rarity: 4
+Capacity: 0
+Value: 120z
+Description: With special materials, this can be worked into very strong armor.
+------------------------------------------------------------------------
+Name: Hornetaur Head
+Rarity: 4
+Capacity: 0
+Value: 175z
+Description: With special materials, can be worked into strong weapons or armor.
+------------------------------------------------------------------------
+Name: Hornetaur Wing
+Rarity: 4
+Capacity: 0
+Value: 73z
+Description: A hard-to-work material. Appears pearlescent when struck by light.
+------------------------------------------------------------------------
+Name: Hornet Bladefin
+Rarity: 5
+Capacity: 0
+Value: 256z
+Description: The knife-like wing of a Hornetaur. Key to its predatory ability.
+------------------------------------------------------------------------
+Name: Sm Lobstershell
+Rarity: 5
+Capacity: 0
+Value: 3580z
+Description: The cranial shell of a King Lobster eaten by a Piscine Wyvern. Very Rare.
+------------------------------------------------------------------------
+Name: Lg Lobstershell
+Rarity: 5
+Capacity: 0
+Value: 3270z
+Description: The body shell of a King Lobster eaten by a Piscine Wyvern. Very Rare.
+------------------------------------------------------------------------
+Name: Crimson Horn
+Rarity: 5
+Capacity: 0
+Value: 1520z
+Description: Obtaining this Monoblos horn makes you the Hero of Kokoto.
+------------------------------------------------------------------------
+Name: Monoblos Shell
+Rarity: 4
+Capacity: 0
+Value: 650z
+Description: Shell from a Monoblos, a sub-species of Diablos. Gray-colored.
+------------------------------------------------------------------------
+Name: Monoblos Spine
+Rarity: 5
+Capacity: 0
+Value: 1340z
+Description: A hard spine from the back of a Monoblos. A weaponcraft material.
+------------------------------------------------------------------------
+Name: Monoblos Heart
+Rarity: 5
+Capacity: 0
+Value: 3600z
+Description: The heart of a Monoblos. Symbolizes ferocious anger.
+------------------------------------------------------------------------
+Name: Kirin Horn
+Rarity: 5
+Capacity: 0
+Value: 2200z
+Description: The horn of the beast god, as powerful as a lightning bolt. Exquisite material.
+------------------------------------------------------------------------
+Name: Kirin Hide
+Rarity: 5
+Capacity: 0
+Value: 3250z
+Description: Beautiful white hide. As hard to use as it is to obtain. Exquisite material.
+------------------------------------------------------------------------
+Name: Kirin Mane
+Rarity: 5
+Capacity: 0
+Value: 1200z
+Description: Magnificent silver mane. Even after being cut off, it seems to retain energy.
+------------------------------------------------------------------------
+Name: Lao-Shan's Claw
+Rarity: 5
+Capacity: 0
+Value: 1920z
+Description: Lao-Shan's massive claw. Impossible to work, so it must be used as-is.
+------------------------------------------------------------------------
+Name: Lao-Shan's Horn
+Rarity: 5
+Capacity: 0
+Value: 1700z
+Description: Horn from Lao-Shan's snout. A prized find. Can be fused with Firestone.
+------------------------------------------------------------------------
+Name: Lao-Shan's Scale
+Rarity: 5
+Capacity: 0
+Value: 650z
+Description: Deep red scales that are the equal of any wyvern's shell. Easy to work with.
+------------------------------------------------------------------------
+Name: Lao-Shan's Plate
+Rarity: 5
+Capacity: 0
+Value: 6700z
+Description: A massive scale from Lao-Shan. Possessing it proves a hunter's worth.
+------------------------------------------------------------------------
+Name: Lao-Shan's Shell
+Rarity: 5
+Capacity: 0
+Value: 900z
+Description: Shell of Lao-Shan Lung. The thick dragon shell tells you of its age.
+------------------------------------------------------------------------
+Name: Lao-Shan's Spine
+Rarity: 5
+Capacity: 0
+Value: 1440z
+Description: The back-spines of a thousand-year-old dragon. Boasts superior hardness.
+------------------------------------------------------------------------
+Name: Fatalis' Horn
+Rarity: 5
+Capacity: 0
+Value: 1088z
+Description: The power of the dragon is said to reside in the four horns atop his skull.
+------------------------------------------------------------------------
+Name: Fatalis' Scale
+Rarity: 5
+Capacity: 0
+Value: 712z
+Description: A portion of the scales from Fatalis' body that go on to form its shell.
+------------------------------------------------------------------------
+Name: Fatalis' Shell
+Rarity: 5
+Capacity: 0
+Value: 930z
+Description: A multi-layered carapace that cannot be damaged by normal weaponry.
+------------------------------------------------------------------------
+Name: Fatalis' Crust
+Rarity: 5
+Capacity: 0
+Value: 1540z
+Description: Hideous crust fused with the melted remains of previous hunter's gear.
+------------------------------------------------------------------------
+Name: Fatalis' Eye
+Rarity: 5
+Capacity: 0
+Value: 9600z
+Description: The crystalline eyeball of Fatalis. One of the Three Great Treasures.
+------------------------------------------------------------------------
+Name: Fatalis' Webbing
+Rarity: 5
+Capacity: 0
+Value: 1310z
+Description: The large surface area makes it very useful. Must be used when fresh.
+------------------------------------------------------------------------
+Name: Egg Ticket
+Rarity: 5
+Capacity: 0
+Value: 0z
+Description: Ticket obtained by giving eggs to the guild. Try collecting them.
+------------------------------------------------------------------------
+Name: Jewel Ticket
+Rarity: 5
+Capacity: 0
+Value: 0z
+Description: Ticket obtained by giving ore to the guild. Try collecting them.
+------------------------------------------------------------------------
+Name: Commendation
+Rarity: 5
+Capacity: 0
+Value: 0z
+Description: Ticket awarded for a display of bravery. Try collecting them.
+------------------------------------------------------------------------
+Name: Old Lady's Note
+Rarity: 5
+Capacity: 0
+Value: 0z
+Description: Order note from the old lady at the food Ingredient shop.
+------------------------------------------------------------------------
+Name: Pawprint Stamp
+Rarity: 5
+Capacity: 0
+Value: 0z
+Description: Money used by beast creatures. You can't decipher the writing.
+------------------------------------------------------------------------
+Name: Guild Ticket
+Rarity: 5
+Capacity: 0
+Value: 0z
+Description: Rare ticket obtained by attending and completing a guild-sponsored event.
+------------------------------------------------------------------------
+Name: Silver Ticket
+Rarity: 5
+Capacity: 0
+Value: 0z
+Description: Presented to those who rent rooms at the guest house for long periods.
+------------------------------------------------------------------------
+Name: Gold Ticket
+Rarity: 5
+Capacity: 0
+Value: 0z
+Description: Presented to users of the guest house VIP room for an extended period.
+------------------------------------------------------------------------
+Name: BBQ Ticket
+Rarity: 5
+Capacity: 0
+Value: 0z
+Description: Awarded to those who truly know how to cook flavorful meat.
+------------------------------------------------------------------------
+Name: Hunter Citation
+Rarity: 5
+Capacity: 0
+Value: 0z
+Description: Awarded to top hunters by the Hero of Kokoto.
+------------------------------------------------------------------------
+Name: Chrome Voucher
+Rarity: 5
+Capacity: 0
+Value: 0z
+Description: For those about to rock. GMR salutes you. We're rocking right along.
+------------------------------------------------------------------------
+Name: Herbivore Egg
+Rarity: 2
+Capacity: 0
+Value: 0z
+Description: An egg stolen from an Apceros nest. Said to be delicious.
+------------------------------------------------------------------------
+Name: Wyvern Egg
+Rarity: 3
+Capacity: 0
+Value: 0z
+Description: An egg stolen from a wyvern's nest.
+------------------------------------------------------------------------
+Name: Powderstone
+Rarity: 3
+Capacity: 0
+Value: 0z
+Description: Rock that explodes upon even the slightest impact. Be careful!
+------------------------------------------------------------------------
+Name: Sootstone Ore
+Rarity: 5
+Capacity: 0
+Value: 0z
+Description: Ore that contains Sootstone.
+------------------------------------------------------------------------
+Name: Quartz Ore
+Rarity: 5
+Capacity: 0
+Value: 0z
+Description: Ore that contains White Quartz.
+------------------------------------------------------------------------
+Name: Speartuna
+Rarity: 5
+Capacity: 0
+Value: 2200z
+Description: A rare and valuable giant-sized fish. What could it be used for...?
+------------------------------------------------------------------------
+Name: Kingmeat
+Rarity: 5
+Capacity: 0
+Value: 550z
+Description: Premium meat. Delicious and juicy.
+------------------------------------------------------------------------
+Name: Barrel Lid
+Rarity: 5
+Capacity: 0
+Value: 10z
+Description: A small barrel lid. There appears to be a drawing on it.
+------------------------------------------------------------------------
+Name: King Cactus
+Rarity: 5
+Capacity: 0
+Value: 3600z
+Description: King of the cacti. Touch it at your own risk.
+------------------------------------------------------------------------
+Name: Lost Umbrella
+Rarity: 5
+Capacity: 0
+Value: 1240z
+Description: Noblewoman's umbrella. Seems to have hidden features. Try fixing it.
+------------------------------------------------------------------------
+Name: Ruststone
+Rarity: 5
+Capacity: 0
+Value: 180z
+Description: Looks like a lump of dirt, but it's actually rusted metal. Try polishing it...
+------------------------------------------------------------------------
+Name: Potion
+Rarity: 1
+Capacity: x10
+Value: 7z
+Description: Restores a small amount of Health.
+------------------------------------------------------------------------
+Name: Mega Potion
+Rarity: 2
+Capacity: x10
+Value: 83z
+Description: Restores a moderate amount of Health.
+------------------------------------------------------------------------
+Name: Antidote
+Rarity: 1
+Capacity: x10
+Value: 6z
+Description: Effectively removes all traces of poison in your system.
+------------------------------------------------------------------------
+Name: Immunizer
+Rarity: 3
+Capacity: x10
+Value: 461z
+Description: Medicine that enhances natural recovery ability.
+------------------------------------------------------------------------
+Name: Power Juice
+Rarity: 2
+Capacity: x5
+Value: 29z
+Description: Allows you to run without becoming fatigued for a period of time.
+------------------------------------------------------------------------
+Name: Mega Juice
+Rarity: 3
+Capacity: x5
+Value: 514z
+Description: Allows you to run without fatiguing for even longer than Power Juice.
+------------------------------------------------------------------------
+Name: Demondrug
+Rarity: 4
+Capacity: x5
+Value: 67z
+Description: Increases Attack power, bestowing the strength of Asura himself on user.
+------------------------------------------------------------------------
+Name: Mega Demondrug
+Rarity: 5
+Capacity: x5
+Value: 1416z
+Description: Increases Attack power even more than Demondrug.
+------------------------------------------------------------------------
+Name: Armorskin
+Rarity: 4
+Capacity: x5
+Value: 58z
+Description: Increases Defense by hardening your skin to stone-like armor.
+------------------------------------------------------------------------
+Name: Mega Armorskin
+Rarity: 5
+Capacity: x5
+Value: 1348z
+Description: Increases Defense even more than Armorskin.
+------------------------------------------------------------------------
+Name: Cool Drink
+Rarity: 1
+Capacity: x3
+Value: 10z
+Description: A drink that bestows temporary resistance to extreme heat.
+------------------------------------------------------------------------
+Name: Hot Drink
+Rarity: 1
+Capacity: x3
+Value: 10z
+Description: A drink that bestows temporary resistance to extreme cold.
+------------------------------------------------------------------------
+Name: Psychoserum
+Rarity: 3
+Capacity: x3
+Value: 30z
+Description: Temporatily activates an ESP-like ability to sense wyverns.
+------------------------------------------------------------------------
+Name: Monster Fluid
+Rarity: 4
+Capacity: x99
+Value: 500z
+Description: Can be mixed with insect stomach juices to make an adhesive.
+------------------------------------------------------------------------
+Name: Herbal Medicine
+Rarity: 2
+Capacity: x10
+Value: 125z
+Description: Effectively cures poison, and restores a slight of Health.
+------------------------------------------------------------------------
+Name: Max Potion
+Rarity: 3
+Capacity: x2
+Value: 1069z
+Description: Restores Health to the maximum level, enabling a full recovery.
+------------------------------------------------------------------------
+Name: Ancient Potion
+Rarity: 5
+Capacity: x1
+Value: 1727z
+Description: Restores Health and Stamina to their maximum levels, enabling a full recovery.
+------------------------------------------------------------------------
+Name: Catalyst
+Rarity: 2
+Capacity: x5
+Value: 48z
+Description: Mixes with other materials to improve their effect. Cannot be used by itself.
+------------------------------------------------------------------------
+Name: Nutrients
+Rarity: 2
+Capacity: x5
+Value: 76z
+Description: Increase the maximum Health level slightly.
+------------------------------------------------------------------------
+Name: Mega Nutrients
+Rarity: 3
+Capacity: x5
+Value: 460z
+Description: Medicine that increases the maximum health level by a small amount.
+------------------------------------------------------------------------
+Name: Gunpowder
+Rarity: 2
+Capacity: x20
+Value: 67z
+Description: A dangerous chemical that explodes when disturbed or heated.
+------------------------------------------------------------------------
+Name: Lifecrystals
+Rarity: 3
+Capacity: x10
+Value: 296z
+Description: Mysterious powder long worshipped as a fount of life.
+------------------------------------------------------------------------
+Name: Lifepowder
+Rarity: 4
+Capacity: x3
+Value: 630z
+Description: Medicine created by combining Lifecrystals. Strong restorative power.
+------------------------------------------------------------------------
+Name: Powercharm
+Rarity: 5
+Capacity: x1
+Value: 3600z
+Description: Amulet that raises Attack power. The holder gains the stregnth of a demon.
+------------------------------------------------------------------------
+Name: Armorcharm
+Rarity: 5
+Capacity: x1
+Value: 2400z
+Description: Amulet that raises Defense. The holder's skin will become as hard as stone.
+------------------------------------------------------------------------
+Name: Bomb Material
+Rarity: 1
+Capacity: x30
+Value: 15z
+Description: Basic ingredient for making hand-thrown bombs.
+------------------------------------------------------------------------
+Name: Paintball
+Rarity: 1
+Capacity: x99
+Value: 10z
+Description: Can be thrown at a monster to mark it for easy tracking.
+------------------------------------------------------------------------
+Name: Flash Bomb
+Rarity: 2
+Capacity: x5
+Value: 57z
+Description: Bomb that flashes brightly upon impact. Confuses monsters.
+------------------------------------------------------------------------
+Name: Smoke Bomb
+Rarity: 2
+Capacity: x10
+Value: 44z
+Description: Creates a large cloud of smoke in the area where it lands.
+------------------------------------------------------------------------
+Name: Farcaster
+Rarity: 3
+Capacity: x1
+Value: 30z
+Description: Instantly transports you back to base camp.
+------------------------------------------------------------------------
+Name: Spiderweb
+Rarity: 1
+Capacity: x10
+Value: 6z
+Description: A spider's web. Very sticky.
+------------------------------------------------------------------------
+Name: Net
+Rarity: 2
+Capacity: x10
+Value: 54z
+Description: Powerful net able to withstand a certain amount of weight.
+------------------------------------------------------------------------
+Name: Whetstone
+Rarity: 1
+Capacity: x20
+Value: 8z
+Description: A standard whetstone. By grinding weapons with it Sharpness is restored.
+------------------------------------------------------------------------
+Name: Flute
+Rarity: 2
+Capacity: x1
+Value: 48z
+Description: A dangerous device used to attract certain monsters. May break when used.
+------------------------------------------------------------------------
+Name: Normal S Lv1
+Rarity: 1
+Capacity: Inf
+Value: 0z
+Description: Inexpensive ammo for novices. Not powerfull. 6-shot burst, unlimited.
+------------------------------------------------------------------------
+Name: Normal S Lv2
+Rarity: 1
+Capacity: x99
+Value: 1z
+Description: Normal ammo. Somewhat more powerful than the Lv1 type. 6-shot burst.
+------------------------------------------------------------------------
+Name: Normal S Lv3
+Rarity: 2
+Capacity: x99
+Value: 2z
+Description: Normal ammo. Not powerful, but the rapid 9-shot burst is useful.
+------------------------------------------------------------------------
+Name: Pierce S Lv1
+Rarity: 2
+Capacity: x60
+Value: 1z
+Description: Piercing round. Can cause mulitple hits. 3-shot burst.
+------------------------------------------------------------------------
+Name: Pierce S Lv2
+Rarity: 2
+Capacity: x50
+Value: 3z
+Description: Piercing round. Causes more hits than Lv1 ammo. 3-shot burst.
+------------------------------------------------------------------------
+Name: Pierce S Lv3
+Rarity: 3
+Capacity: x40
+Value: 5z
+Description: Piercing round. Causes more hits than Lv1 or Lv2 ammo. 3-shot burst.
+------------------------------------------------------------------------
+Name: Pellet S Lv1
+Rarity: 2
+Capacity: x60
+Value: 1z
+Description: Sprays a wide area and hits multiple times when close. 4-shot burst.
+------------------------------------------------------------------------
+Name: Pellet S Lv2
+Rarity: 2
+Capacity: x60
+Value: 2z
+Description: Sprays a wide area. Causes more hits than Lv1. 4-shot burst.
+------------------------------------------------------------------------
+Name: Pellet S Lv3
+Rarity: 3
+Capacity: x60
+Value: 3z
+Description: Sprays a wide area. Causes more hits than Lv1 or Lv2. 4-shot burst.
+------------------------------------------------------------------------
+Name: Crag S Lv1
+Rarity: 3
+Capacity: x9
+Value: 4z
+Description: Penetrates and explodes. Single shot, but powerful.
+------------------------------------------------------------------------
+Name: Crag S Lv2
+Rarity: 3
+Capacity: x9
+Value: 7z
+Description: Penetrates and explodes. Single shot, but very powerful.
+------------------------------------------------------------------------
+Name: Crag S Lv3
+Rarity: 3
+Capacity: x9
+Value: 7z
+Description: Penetrates and explodes. Single shot, but incredibly powerful.
+------------------------------------------------------------------------
+Name: Clust S Lv1
+Rarity: 2
+Capacity: x3
+Value: 4z
+Description: Spilts into 3 bombs upon impact. Beware of the blast. Single shot.
+------------------------------------------------------------------------
+Name: Clust S Lv2
+Rarity: 3
+Capacity: x3
+Value: 6z
+Description: Spilts into 4 bombs upon impact. Beware of the blast. Single shot.
+------------------------------------------------------------------------
+Name: Clust S Lv3
+Rarity: 3
+Capacity: x3
+Value: 10z
+Description: Spilts into 5 bombs upon impact. Beware of the blast. Single shot.
+------------------------------------------------------------------------
+Name: Disk S
+Rarity: 2
+Capacity: x12
+Value: 103z
+Description: Special disk-shaped ammo. Can ricocet for extra hits. 3-shot burst.
+------------------------------------------------------------------------
+Name: Recov S Lv1
+Rarity: 1
+Capacity: x12
+Value: 2z
+Description: Restores a small amount of Health to the target. 3-shot burst.
+------------------------------------------------------------------------
+Name: Recov S Lv2
+Rarity: 2
+Capacity: x12
+Value: 2z
+Description: Restores a moderate amount of Health to the target. 3-shot burst.
+------------------------------------------------------------------------
+Name: Poison S Lv1
+Rarity: 2
+Capacity: x12
+Value: 2z
+Description: Poisons target. May require several shots. 3-shot burst.
+------------------------------------------------------------------------
+Name: Poison S Lv2
+Rarity: 3
+Capacity: x8
+Value: 2z
+Description: Poisons target (Lv2). May require several shots. Single shot.
+------------------------------------------------------------------------
+Name: Stun S Lv1
+Rarity: 3
+Capacity: x12
+Value: 3z
+Description: Paralyzes target. May require several shots. 3-shot burst.
+------------------------------------------------------------------------
+Name: Stun S Lv2
+Rarity: 4
+Capacity: x8
+Value: 5z
+Description: Paralyzes target (Lv2). May require several shots. Single shot.
+------------------------------------------------------------------------
+Name: Sleep S Lv1
+Rarity: 3
+Capacity: x12
+Value: 2z
+Description: Puts target to sleep. May require several shots. 3-shot burst.
+------------------------------------------------------------------------
+Name: Sleep S Lv2
+Rarity: 4
+Capacity: x8
+Value: 3z
+Description: Puts target to sleep (Lv2). May require several shots. Single shot.
+------------------------------------------------------------------------
+Name: Paint S
+Rarity: 1
+Capacity: x99
+Value: 6z
+Description: Marks monster's position on map for a certain time. 2-shot burst.
+------------------------------------------------------------------------
+Name: Antidote S
+Rarity: 2
+Capacity: x99
+Value: 1z
+Description: Totally cures the target of any poison effect. 3-shot burst.
+------------------------------------------------------------------------
+Name: Demon S
+Rarity: 3
+Capacity: x5
+Value: 9z
+Description: Said to bestow the strength of Asura on the target. Max 5 shots.
+------------------------------------------------------------------------
+Name: Armor S
+Rarity: 3
+Capacity: x5
+Value: 7z
+Description: Said to make the target's skin as hard as stone. Maximum of 5 shots.
+------------------------------------------------------------------------
+Name: Dragon S
+Rarity: 5
+Capacity: x20
+Value: 10z
+Description: Mysterious ammo that can't be used in normal Bowguns. Single shot.
+------------------------------------------------------------------------
+Name: Dung S
+Rarity: 1
+Capacity: x10
+Value: 1z
+Description: Foul-smelling ammo disliked by certain wyverns. Single shot.
+------------------------------------------------------------------------
+Name: Honey
+Rarity: 2
+Capacity: x10
+Value: 45z
+Description: Normal honey. Highly nutritious.
+------------------------------------------------------------------------
+Name: Herb
+Rarity: 1
+Capacity: x10
+Value: 2z
+Description: A plant that restores a slight amount of Health.
+------------------------------------------------------------------------
+Name: Antidote Herb
+Rarity: 1
+Capacity: x10
+Value: 2z
+Description: A plant that has antidotal qualities. May work even if taken by itself.
+------------------------------------------------------------------------
+Name: Fire Herb
+Rarity: 2
+Capacity: x20
+Value: 4z
+Description: A plant that has flammable properties.
+------------------------------------------------------------------------
+Name: Ivy
+Rarity: 1
+Capacity: x10
+Value: 8z
+Description: A lightweight and extremely strong plant.
+------------------------------------------------------------------------
+Name: Sleep Herb
+Rarity: 1
+Capacity: x10
+Value: 5z
+Description: A plant that possesses sleep-inducing qualities.
+------------------------------------------------------------------------
+Name: Sap Plant
+Rarity: 1
+Capacity: x30
+Value: 2z
+Description: A plant with leaves coated in sticky sap. Difficult to remove once attached.
+------------------------------------------------------------------------
+Name: Felvine
+Rarity: 1
+Capacity: x10
+Value: 1z
+Description: A Melynx favorite. They can't resist its charm.
+------------------------------------------------------------------------
+Name: Cactus Flower
+Rarity: 2
+Capacity: x10
+Value: 10z
+Description: Contains antidotal substances, but has no effect by itself.
+------------------------------------------------------------------------
+Name: Special Mushroom
+Rarity: 5
+Capacity: x10
+Value: 60z
+Description: Tiny and difficult to pick. A favorite food of the Mosswine.
+------------------------------------------------------------------------
+Name: Blue Mushroom
+Rarity: 2
+Capacity: x10
+Value: 2z
+Description: Rare mushroom with a power-enhancing effect.
+------------------------------------------------------------------------
+Name: Nitroshroom
+Rarity: 2
+Capacity: x20
+Value: 6z
+Description: Rare mushroom with the power to generate heat.
+------------------------------------------------------------------------
+Name: Parashroom
+Rarity: 3
+Capacity: x10
+Value: 15z
+Description: Mushroom that induces a paralytic effect.
+------------------------------------------------------------------------
+Name: Toadstool
+Rarity: 2
+Capacity: x10
+Value: 8z
+Description: A poisonus fungus. But perhaps it has other effects as well...
+------------------------------------------------------------------------
+Name: Dragon Toadstool
+Rarity: 3
+Capacity: x10
+Value: 45z
+Description: A dangerous fungus said to draw the life out of people. Beware.
+------------------------------------------------------------------------
+Name: Paintberry
+Rarity: 1
+Capacity: x99
+Value: 6z
+Description: A berry that releases a paint-like juice and a powerful smell when broken.
+------------------------------------------------------------------------
+Name: Huskberry
+Rarity: 1
+Capacity: x99
+Value: 1z
+Description: An empty berry with nothing inside.
+------------------------------------------------------------------------
+Name: Power Seed
+Rarity: 2
+Capacity: x10
+Value: 140z
+Description: Improves natural energy-flow and temporarily raises Attack power when consumed.
+------------------------------------------------------------------------
+Name: Armor Seed
+Rarity: 2
+Capacity: x10
+Value: 110z
+Description: Temporarily increases Defense when consumed. Very invigorating.
+------------------------------------------------------------------------
+Name: Dragon Seed
+Rarity: 2
+Capacity: x2
+Value: 78z
+Description: Mysterious berry said to be hated by dragons.
+------------------------------------------------------------------------
+Name: Scatternut
+Rarity: 2
+Capacity: x30
+Value: 4z
+Description: A nut that shatters to pieces when subjected to an impact.
+------------------------------------------------------------------------
+Name: Needleberry
+Rarity: 1
+Capacity: x99
+Value: 1z
+Description: A berry covered in needle-like thorns.
+------------------------------------------------------------------------
+Name: Bomberry
+Rarity: 2
+Capacity: x10
+Value: 12z
+Description: A berry that explodes when subjected to an impact.
+------------------------------------------------------------------------
+Name: Stone
+Rarity: 1
+Capacity: x99
+Value: 1z
+Description: A small rock. Can be Thrown.
+------------------------------------------------------------------------
