@@ -1,0 +1,130 @@
+import React from "react"
+import Footer from "./components/Footer"
+import Header from "./components/Header"
+import MainContent from "./components/MainContent"
+import NavBar from "./components/NavBar"
+import List from "./components/List"
+// import the component 
+
+function App() {
+  //funtions are stateless componnents in React
+  const firstName = "Tyler"
+  const lastName = "Varlack" //this is how you declare variables in JSX
+  const date = new Date() // Date(year, month, day, time)
+  const hours = date.getHours()
+  let timeOfDay
+  const styles = { //the making of a style Object in JSX, we get rid of any and all dashes and use camelCases instead
+    color: "red",
+    //we seperate lines inside of a style object with a ","
+    backgroundColor: "blue",
+    // replace background-color with backgroundColor
+    fontSize: 30
+    //here we can do fontSize: 25, otherwise we have to use STRINGS like fontSize: "200px"
+  }
+
+  if (hours < 12){
+    timeOfDay = "Morning"
+    styles.color ="green"
+  } else if (hours >= 12 && hours < 17){
+    timeOfDay = "Afternoon"
+    styles.color ="yellow"
+  } else {
+    timeOfDay = "Night"
+    styles.color ="white"
+  }
+  //we can have dynamic data change hardcoded values using inline style JSX
+  return (
+    <div>
+      <h1 style={styles}> Good {timeOfDay}!</h1>
+    </div>
+  );
+
+}
+
+//we use JSX which is an extension of JS. It looks like a combination of JS and HTML and can only be COMPILED into JS when used
+
+//think of flutter widgets 
+
+
+
+//<h1>Hello {firstName} {lastName}</h1>, this is how we can place variables inside of a string in JSX or {firstName + " " + lastName} or {`${firstName} ${lastName}`}
+
+//<h1 style={{color: "red", backgroundColor: "blue"}}> Good {timeOfDay}!</h1> an inline style example
+
+
+export default App
+
+
+
+
+function App() {
+  return(
+    <div className="todo-list">
+    </div>
+    //here we pass the prop itemName from this line of JSX to its corresponding js file
+  )
+}
+
+
+export default App
+
+
+
+
+.todo-list{
+  background-color: white;
+  margin: auto;
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 1px solid #efefef;
+  box-shadow: 
+
+      0 1px 1px rgba(0,0,0,0.15),
+
+      0 10px 0px -5px #eee,
+
+      0 10px 1px -4px rgba(0,0,0,0.15),
+
+      0 20px 0px -10px #eee,
+
+      0 20px 1px -9 rgba(0,0,0,0.15);
+
+  padding: 30px;
+}
+
+
+.todo-item{
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 30px 20px 0;
+  width: 70%;
+  border-bottom: 1px solid #cecece;
+  font-family: Roboto, sans-serif;
+  font-weight: 100;
+  font-size: 15px;
+  color: #333333;
+  
+}
+
+input[type=checkbox]{
+  margin-right: 10px;
+  font-size: 30px;
+}
+
+input[type=checkbox]:focus{
+  outline: 0;
+}
+
+
+
+
+  const nums = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10] //we can use the higher order array method map() that takes a function as an param
+  //the function will recieve each individual item in the array
+  const doubled = nums.map(function (num) {
+    return num * 2
+  })
+  console.log(doubled)
+  //map returns a brand new array
