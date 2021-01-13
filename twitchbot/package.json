@@ -1,0 +1,28 @@
+{
+  "name": "lurkbot",
+  "version": "1.0.0",
+  "description": "Bot that monitors lurkers",
+  "main": "src",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "tmi.js": "^1.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node .",
+    "test": "echo \\ \"Test, nothing here\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TaiLowRen/fatalislurk.git"
+  },
+  "keywords": [
+    "JS"
+  ],
+  "author": "TaiLowRen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TaiLowRen/fatalislurk/issues"
+  },
+  "homepage": "https://github.com/TaiLowRen/fatalislurk#readme"
+}
